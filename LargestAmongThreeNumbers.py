@@ -1,4 +1,4 @@
-# Program to Find the Largest Among Three Numbers
+# Program to Find Largest Among Three Numbers
 first_number = float(input("Entert first number: "))
 second_number= float(input("Entert second number: "))
 third_number = float(input("Entert third number: "))
